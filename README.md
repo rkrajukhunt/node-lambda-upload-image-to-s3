@@ -1,0 +1,1 @@
+# node-lambda-upload-image-to-s3
